@@ -1,0 +1,31 @@
+name: Update VPN Lists
+on:
+  schedule:
+    - cron: '0 * * * *' # Запуск каждый час
+  workflow_dispatch: # Кнопка ручного запуска
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout my repo
+      uses: actions/checkout@v4
+
+    - name: Clone target repo and copy txt files
+      run: |
+        # Скачиваем чужой репозиторий во временную папку target_repo
+        git clone --depth 1 https://github.com/igareck/vpn-configs-for-russia target_repo
+        
+        # Копируем только .txt файлы из корня чужого репо в корень нашего репо
+        cp target_repo/*.txt . || true
+        
+        # Удаляем временную папку, чтобы она не попала к нам в репо
+        rm -rf target_repo
+
+    - name: Commit and Push
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add *.txt
+        git commit -m "Hourly sync of txt files" || exit 0
+        git push
