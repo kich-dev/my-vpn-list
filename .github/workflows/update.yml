@@ -22,6 +22,8 @@ jobs:
         # Удаляем временную папку, чтобы она не попала к нам в репо
         rm -rf target_repo
 
+        curl -s "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt" > vless_universal.txt
+
     - name: Commit and Push
       run: |
         git config user.name "github-actions"
