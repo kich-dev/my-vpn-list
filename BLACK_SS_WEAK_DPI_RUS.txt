@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
 # profile-update-interval: 1
-# Date/Time: 2026-09-07 / 13:45 (Moscow)
-# Количество: 8
+# Date/Time: 2026-09-07 / 19:38 (Moscow)
+# Количество: 6
 # For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка содержит конфигурации Shadowsocks без обфускации и плагинов, предназначенные для использования в сетях со слабым DPI или пониженным уровнем фильтрации.
@@ -14,11 +14,9 @@
 # EN: DNS-over-HTTPS must be configured on the router or in the PC network adapter settings. Without DoH, traffic may be blocked even when the configurations pass the ping test.
 # EN: Functionality is not guaranteed and depends on the Internet service provider.
 
-ss://2022-blake3-chacha20-poly1305:e0sT7dql6hUZTTWLOtz89tI2%2BPxjtSCqzAhkwhVVz9U%3D@130.61.237.108:59924#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@195.238.126.20:9008#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFU0ZTFEV1JxSlVIT29zY01idTR4MDd4Y2p6dHRBTWJpK3lHd0hWK3lrND0@143.47.188.200:45819#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-ss://2022-blake3-chacha20-poly1305:ExPNDBZzUC%2FJjs1%2BJpVlovzA%2BLE0RxQNHDfwGbceORs%3D@134.65.60.243:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Newport%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SGFsV0s2WmQybHdDMnZtWlA5TElZY3k3enE1OE1QTkM4MVc2RmcyZVEyVT0@129.151.83.221:61312#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Newport%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.139:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.101:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Mong%20Kok%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Mong%20Kok%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Mong%20Kok%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Wan%20Chai%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
