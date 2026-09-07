@@ -1,11 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-07 / 02:57 (Moscow)
-# Количество: 5
+# Date/Time: 2026-09-07 / 08:25 (Moscow)
+# Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@2.27.211.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@2.27.211.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@2.27.211.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@2.27.211.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@2.27.211.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&sni=www.yandex.ru&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
+hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5BSNI-RU%5D%20vk.com
