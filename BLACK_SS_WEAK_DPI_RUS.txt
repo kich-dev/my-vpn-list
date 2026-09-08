@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
 # profile-update-interval: 1
-# Date/Time: 2026-09-09 / 00:10 (Moscow)
-# Количество: 7
+# Date/Time: 2026-09-09 / 02:39 (Moscow)
+# Количество: 8
 # For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка содержит конфигурации Shadowsocks без обфускации и плагинов, предназначенные для использования в сетях со слабым DPI или пониженным уровнем фильтрации.
@@ -20,4 +20,5 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.139:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Berdsk%20%7C%20%5BBL%5D
 ss://YWVzLTEyOC1nY206YWs1V1lXZEVTR05vUkd4dVRIVkJlV1owTmt0VGVHWlNRMWR5UjNaSlpGUm1ZV3AwYlZGeE9FcEdSM2xPVHpaYVVtTXpSelZQV1dkSVdqTnBaVTQxVHc9PQ@200.169.180.248:14173#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
