@@ -1,6 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-09 / 19:58 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-09 / 23:18 (Moscow)
+# Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+hysteria2://06621f902d53e80832c8266ad0eac46f@108.59.244.158:443/?alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&insecure=1&pinSHA256=6e361bf2ca797f4b1a8e93955852cdac83260f55e6cb9ad6d5a307866b80f670&security=tls&sni=api.ok.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20api.ok.ru
