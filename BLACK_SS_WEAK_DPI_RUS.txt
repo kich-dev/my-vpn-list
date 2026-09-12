@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
 # profile-update-interval: 1
-# Date/Time: 2026-09-12 / 06:52 (Moscow)
-# Количество: 4
+# Date/Time: 2026-09-12 / 11:13 (Moscow)
+# Количество: 3
 # For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка содержит конфигурации Shadowsocks без обфускации и плагинов, предназначенные для использования в сетях со слабым DPI или пониженным уровнем фильтрации.
@@ -14,7 +14,6 @@
 # EN: DNS-over-HTTPS must be configured on the router or in the PC network adapter settings. Without DoH, traffic may be blocked even when the configurations pass the ping test.
 # EN: Functionality is not guaranteed and depends on the Internet service provider.
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGdfYXN0cm92cG5fb2ZmaWNpYWw@179.61.138.73:8444#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@188.208.110.58:8444#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.139:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Berdsk%20%7C%20%5BBL%5D
