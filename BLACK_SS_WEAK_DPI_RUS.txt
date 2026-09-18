@@ -1,6 +1,6 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
 # profile-update-interval: 1
-# Date/Time: 2026-09-18 / 19:18 (Moscow)
+# Date/Time: 2026-09-18 / 22:22 (Moscow)
 # Количество: 5
 # For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
 
@@ -16,6 +16,6 @@
 
 ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:19290#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Mong%20Kok%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVRRM1kyRmxaRFprWlRNd09EZ3lNUT09Ok56UTBPV00wTlRJdE9UTTROUzAwTlE9PQ@188.253.125.109:2083#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@153.52.92.81:1080#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.139:65443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%29%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
