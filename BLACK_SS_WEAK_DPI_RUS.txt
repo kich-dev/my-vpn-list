@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
 # profile-update-interval: 1
-# Date/Time: 2026-09-27 / 08:17 (Moscow)
-# Количество: 10
+# Date/Time: 2026-09-27 / 15:33 (Moscow)
+# Количество: 5
 # For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка содержит конфигурации Shadowsocks без обфускации и плагинов, предназначенные для использования в сетях со слабым DPI или пониженным уровнем фильтрации.
@@ -14,13 +14,8 @@
 # EN: DNS-over-HTTPS must be configured on the router or in the PC network adapter settings. Without DoH, traffic may be blocked even when the configurations pass the ping test.
 # EN: Functionality is not guaranteed and depends on the Internet service provider.
 
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206VG1qUXFWcXp0SGlSazZRNXJLblRpUT09@122.10.117.1:11365#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://YWVzLTEyOC1nY206NmJjYTUxNzMtYmUwNC00M2Q4LWE2MDktMTFlZWM4MzE1Zjlk@191.223.214.11:8444#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kwai%20Chung%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Wan%20Chai%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVRRM1kyRmxaRFprWlRNd09EZ3lNUT09Ok5ESTFPRGswWWpndE4yVTVNUzAwWWc9PQ@188.253.125.109:2083#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVRRM1kyRmxaRFprWlRNd09EZ3lNUT09Ok5UZGpaalUyTXpndE1XUTFNeTAwWmc9PQ@188.253.125.109:2083#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%28Toegye-ro%29%20%7C%20%5BBL%5D
+ss://YWVzLTEyOC1nY206NjFlNTBjYzgtM2VhNy00NWJhLWE1ZTQtZjRhNTRjNWU4OWU5@191.223.214.11:8444#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kwai%20Chung%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://YWVzLTEyOC1nY206OGU2ZTE4MDItYmQ0ZS00OTM2LTg3NTgtOGY0NTRkMDNkNWZj@191.223.214.11:8444#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kwai%20Chung%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://YWVzLTEyOC1nY206OTY0YmMyMTQtM2FjNS00YWE5LWE2NDctZWM2NzVjZTZhN2Jj@191.223.214.11:8444#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Kwai%20Chung%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.141.124:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Berdsk%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWTE0ckd6cl9oR2J2T25VdkRNUjdnWHRITVZLQ0MtTg@135.106.227.252:8388#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcHpUSVJXS2ZHeHN0V0xtU2l4M1diYkpVNWN6WTRCMQ@135.106.227.252:8388#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D
