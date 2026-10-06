@@ -1,11 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-06 / 20:26 (Moscow)
-# Количество: 5
+# Date/Time: 2026-10-07 / 00:34 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://be2568ed-9b3f-4071-86aa-444891fe2887@78.17.209.157:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%222-5%22%2C%22length%22%3A%2240-80%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%224-8%22%7D%7D&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://be2568ed-9b3f-4071-86aa-444891fe2887@78.17.209.157:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%222-5%22%2C%22length%22%3A%2240-80%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%224-8%22%7D%7D&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://be2568ed-9b3f-4071-86aa-444891fe2887@78.17.209.157:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%222-5%22%2C%22length%22%3A%2240-80%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%224-8%22%7D%7D&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://be2568ed-9b3f-4071-86aa-444891fe2887@78.17.209.157:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%222-5%22%2C%22length%22%3A%2240-80%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%224-8%22%7D%7D&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://be2568ed-9b3f-4071-86aa-444891fe2887@78.17.209.157:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=V_AnDtQn2g3kTFu19MUBCwA0LzmYeU68FlnIHcvlADg&fm=%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%222-5%22%2C%22length%22%3A%2240-80%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%224-8%22%7D%7D&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
