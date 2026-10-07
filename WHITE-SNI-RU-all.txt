@@ -1,10 +1,16 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-07 / 12:35 (Moscow)
-# Количество: 4
+# Date/Time: 2026-10-07 / 20:07 (Moscow)
+# Количество: 10
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
-vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
-vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
-vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&sni=storage.yandexcloud.net&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@31.76.69.87:7443?encryption=none&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@31.76.69.87:7443?encryption=none&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp&fp=edge#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@31.76.69.87:7443?encryption=none&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@31.76.69.87:7443?encryption=none&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@31.76.69.87:7443?encryption=none&flow=xtls-rprx-vision&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@at.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1&fp=edge#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@at.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@at.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1&fp=ios#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@at.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1&fp=qq#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@at.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1&fp=safari#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
